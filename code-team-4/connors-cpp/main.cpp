@@ -114,7 +114,7 @@ int main() {
             std::cout << user.getLocation() << std::endl;
         // get post id's
         } else if (action == "4") {
-            std::cout <<< user.getPostId() << std::endl;
+            std::cout << user.getPostId() << std::endl;
         } else if (action == "5") {
             break; // Exit the program
         } else {
