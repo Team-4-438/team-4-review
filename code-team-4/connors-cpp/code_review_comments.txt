@@ -1,0 +1,13 @@
+Code Reviewer: Kimberly Gaeta
+Date: 4/20/2024
+Team 4
+
+    Structure:      - Everything is well organized and well labeled, making looking through the 
+                      files easier.
+                    - Great use of header files for the implementation!
+
+    Functionality:  - It took a second to figure out how to run the code but otherwise easy to use.
+                    - Met all of the test cases and functioned well.
+    
+    Comments:       - Great use of comments throughout to explain your process.
+                    - The code was easy to read through and understand.
