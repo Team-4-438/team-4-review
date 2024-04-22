@@ -1,0 +1,18 @@
+Reviewer: Connor Bennett
+Date: 4/20/2024
+Team: 4
+
+
+    Structure:      - Code seems to be about as consise and you could make it great job
+                    - I really like the use of teh switch statement great idea
+                    - great object oriented implementation
+
+
+    fucntionality:  - Meets the test cases requirements and functioned great for me in vscode and was easy to use 
+
+    Comments:       - I like the way you used comments to divide each section
+                    - A few more comments in eachs section would be helpful for breaking down exactly what logic each chunk of code
+                      is responsible for in the menu otehrwise great.
+                    - you made the code easy to navigate, kept it short and simple, and made it look easy(and made it hard for me to find critiques)
+                      great job!
+
