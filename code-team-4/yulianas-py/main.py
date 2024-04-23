@@ -1,5 +1,6 @@
-# @author yuliana morales
-# as2-code-review
+# @author yuliana morales-galvan
+# for as2-code-review
+# Used two dictionaries to complete assignment.
 friends = []
 userInfoDict = {}
 postInfoDict = {}
